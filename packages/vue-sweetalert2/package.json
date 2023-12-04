@@ -1,6 +1,6 @@
 {
-  "name": "@goodmartian/vue-sweetalert2-neutral",
-  "version": "5.0.6",
+  "name": "vue-sweetalert2-neutral",
+  "version": "5.0.8",
   "description": "Simple Vue sweetalert2 package",
   "main": "dist/vue-sweetalert.cjs.js",
   "module": "dist/vue-sweetalert.es.js",
@@ -16,7 +16,6 @@
     "test": "vitest run",
     "test:watch": "vitest --watch",
     "test:coveralls": "vitest run --coverage && cat ./coverage/lcov.info | coveralls",
-    "prepublishOnly": "npm run test && npm run build && npm run changelog",
     "lint:prettier": "prettier --write src/*.ts",
     "lint:ts": "tsc --noEmit --skipLibCheck",
     "lint": "npm run lint:prettier && npm run lint:ts",
@@ -45,7 +44,7 @@
     "delay": 2500
   },
   "dependencies": {
-    "sweetalert2-neutral": "11.x"
+    "sweetalert2-neutral": "11.6.15-neutral"
   },
   "peerDependencies": {
     "vue": "*"

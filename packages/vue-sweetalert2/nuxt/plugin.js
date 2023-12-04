@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import VueSweetalert2 from '@goodmartian/vue-sweetalert2-neutral';
+import VueSweetalert2 from 'vue-sweetalert2-neutral';
 
 import 'sweetalert2-neutral/dist/sweetalert2.min.css';
 
