@@ -45,7 +45,7 @@
     "delay": 2500
   },
   "dependencies": {
-    "sweetalert2": "11.x"
+    "sweetalert2-neutral": "11.x"
   },
   "peerDependencies": {
     "vue": "*"
