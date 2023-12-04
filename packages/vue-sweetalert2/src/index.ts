@@ -1,5 +1,5 @@
-import {SweetAlertOptions} from 'sweetalert2';
-import Swal from 'sweetalert2/dist/sweetalert2.js';
+import {SweetAlertOptions} from 'sweetalert2-neutral';
+import Swal from 'sweetalert2-neutral/dist/sweetalert2.js';
 
 type TVueSwalInstance = typeof Swal & typeof Swal.fire;
 

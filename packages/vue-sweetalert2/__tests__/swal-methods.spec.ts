@@ -1,5 +1,5 @@
 import {createLocalVue} from '@vue/test-utils';
-import Swal from 'sweetalert2';
+import Swal from 'sweetalert2-neutral';
 
 import VueSweetalert2 from '../src';
 
