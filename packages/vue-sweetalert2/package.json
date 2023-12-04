@@ -1,5 +1,5 @@
 {
-  "name": "vue-sweetalert2",
+  "name": "@goodmartian/vue-sweetalert2-neutral",
   "version": "5.0.6",
   "description": "Simple Vue sweetalert2 package",
   "main": "dist/vue-sweetalert.cjs.js",
@@ -35,7 +35,7 @@
   "homepage": "https://avil13.github.io/vue-sweetalert2/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/avil13/vue-sweetalert2.git"
+    "url": "git+https://github.com/goodmartian/vue-sweetalert2.git"
   },
   "nodemonConfig": {
     "watch": [
@@ -58,5 +58,8 @@
     "vitest": "^0.12.3",
     "vue": "*",
     "vue-template-compiler": "^2.6.14"
+  },
+  "bugs": {
+    "url": "https://github.com/goodmartian/vue-sweetalert2/issues"
   }
 }
