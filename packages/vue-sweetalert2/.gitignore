@@ -4,7 +4,6 @@ npm-shrinkwrap.json
 
 .DS_Store
 node_modules/
-dist/
 npm-debug.log
 yarn-error.log
 
