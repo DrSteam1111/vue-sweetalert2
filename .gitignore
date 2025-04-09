@@ -1,14 +1,12 @@
 node_modules
-dist
 npm-shrinkwrap.json
 
 .DS_Store
 node_modules/
-dist/
 npm-debug.log
 yarn-error.log
 
-yarn.lock
+#yarn.lock
 package-lock.json
 
 # Editor directories and files
@@ -22,5 +20,3 @@ package-lock.json
 coverage
 
 .npmrc
-
-dist
